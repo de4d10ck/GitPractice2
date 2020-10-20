@@ -24,7 +24,7 @@ public class FooBar{
 }
 ```
 
-## What-is-recursion
+## What is recursion
 
 
 |----------------------| move down the stairs
@@ -131,6 +131,6 @@ public class FooBar{
 
 |----------------------|
 
-### [Click here to discover recursion](##What-is-recursion)
+### [Click here to discover recursion](#What-is-recursion)
 
 
